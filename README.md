@@ -1,5 +1,5 @@
 This repo can be included as a plugin repository:
-
+```
 <pluginRepository>
 	<id>flex-maven-repo</id>
 	<name>Flex Maven Repo on GitHub</name>
@@ -24,3 +24,4 @@ Or, a regular repository:
 		<enabled>false</enabled>
 	</snapshots>
 </repository>
+```
