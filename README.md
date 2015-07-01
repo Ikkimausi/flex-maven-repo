@@ -11,9 +11,9 @@ This repo can be included as a plugin repository:
 		<enabled>false</enabled>
 	</snapshots>
 </pluginRepository>
-
+```
 Or, a regular repository:
-
+```
 <repository>
 	<id>flex-maven-repo</id>
 	<url>https://raw.github.com/Ikkimausi/flex-maven-repo/master</url>
